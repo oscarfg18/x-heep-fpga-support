@@ -96,7 +96,6 @@ filesets:
     - constraints/common/sync.xdc
     file_type: xdc
 
-
   xdc-fpga-bergen:
     files:
     - constraints/bergen/pin_assign.xdc
